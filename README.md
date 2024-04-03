@@ -1,4 +1,4 @@
-# Next Payment Count Forecasting_Time Series Analysis
+# Next Payment Count Forecasting (Time Series Analysis)
 
 **Since this is a hobby project, it was not written with a clean code approach. Moreover, of the studies mentioned below, only some files from the works have been added to the repo.**
 
